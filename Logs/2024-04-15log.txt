@@ -1,0 +1,8 @@
+2024-04-15 10:02:34.764049 : Restore Application started
+2024-04-15 10:02:34.795791 : Scheduler ran for Vega/Faces
+==============================================
+2024-04-15 10:02:34.795791 : Restore Application stopped
+2024-04-15 10:02:58.018708 : Restore Application started
+2024-04-15 10:02:58.051235 : Scheduler ran for Vega/Faces
+==============================================
+2024-04-15 10:02:58.051235 : Restore Application stopped
